@@ -1,0 +1,2 @@
+# Pankkisimulaatio
+Ensimmäisen opiskeluvuoden kevätlukukaudella tehty simulaatiototeutus pankista.
